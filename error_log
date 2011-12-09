@@ -1,0 +1,76 @@
+[09-Jul-2011 21:23:33] PHP Parse error:  syntax error, unexpected '<', expecting T_FUNCTION in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 9
+[09-Jul-2011 21:35:22] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:35:29] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:14] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:35] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:36] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:36] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:45] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:45] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:46] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:46] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:47] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:36:47] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:37:06] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:37:08] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:37:18] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:37:19] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:37:36] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:37:58] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:38:05] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:39:38] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:39:53] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:39:54] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 7
+[09-Jul-2011 21:40:11] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:40:47] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:41:47] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:42:09] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 112
+[09-Jul-2011 21:43:06] PHP Fatal error:  Call to undefined function  base_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 114
+[09-Jul-2011 21:57:52] PHP Fatal error:  Call to a member function select() on a non-object in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 7
+[09-Jul-2011 21:58:38] PHP Fatal error:  Cannot use object of type stdClass as array in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 17
+[09-Jul-2011 21:59:13] PHP Fatal error:  Cannot use object of type stdClass as array in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 16
+[09-Jul-2011 21:59:14] PHP Fatal error:  Cannot use object of type stdClass as array in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 16
+[09-Jul-2011 22:00:58] PHP Fatal error:  Cannot use object of type stdClass as array in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 17
+[09-Jul-2011 22:01:31] PHP Parse error:  syntax error, unexpected ';' in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 9
+[09-Jul-2011 22:33:10] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 23
+[09-Jul-2011 22:33:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 23
+[09-Jul-2011 22:49:49] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 224
+[09-Jul-2011 22:51:31] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:52:18] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:53:48] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:56:32] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:57:07] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:57:23] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:57:42] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:58:02] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 22:58:25] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 223
+[09-Jul-2011 23:15:04] PHP Fatal error:  Call to undefined function  his() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 39
+[09-Jul-2011 23:15:11] PHP Fatal error:  Call to undefined function  his() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 39
+[09-Jul-2011 23:25:20] PHP Fatal error:  Cannot use object of type stdClass as array in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 25
+[09-Jul-2011 23:26:32] PHP Fatal error:  Call to undefined function  format() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 26
+[09-Jul-2011 23:26:35] PHP Fatal error:  Call to undefined function  format() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 26
+[09-Jul-2011 23:26:49] PHP Fatal error:  Call to undefined function  format() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 26
+[09-Jul-2011 23:47:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 42
+[09-Jul-2011 23:47:29] PHP Fatal error:  Call to undefined method CI_Input::delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 8
+[09-Jul-2011 23:47:58] PHP Fatal error:  Call to undefined function  delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 8
+[09-Jul-2011 23:48:31] PHP Fatal error:  Call to undefined method CI_Input::delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 8
+[09-Jul-2011 23:49:04] PHP Fatal error:  Call to undefined method CI_Input::delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 8
+[09-Jul-2011 23:49:07] PHP Fatal error:  Call to undefined method CI_Input::delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 8
+[09-Jul-2011 23:49:08] PHP Fatal error:  Call to undefined method CI_Input::delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 8
+[09-Jul-2011 23:49:40] PHP Fatal error:  Call to undefined method CI_Input::delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 8
+[10-Jul-2011 00:54:18] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 43
+[10-Jul-2011 00:55:38] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/models/clock_model.php on line 44
+[10-Jul-2011 00:14:47] PHP Fatal error:  Call to undefined method CI_Input::delete_cookie() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 12
+[10-Jul-2011 02:17:10] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 47
+[10-Jul-2011 01:18:07] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 47
+[10-Jul-2011 01:18:09] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 47
+[10-Jul-2011 01:18:10] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 47
+[10-Jul-2011 01:18:11] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 47
+[10-Jul-2011 01:18:11] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 47
+[10-Jul-2011 01:18:12] PHP Fatal error:  Call to undefined function  site_url() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/views/clock.php on line 47
+[10-Jul-2011 02:19:52] PHP Fatal error:  Call to undefined function  redirect() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 89
+[10-Jul-2011 02:20:10] PHP Fatal error:  Call to undefined function  redirect() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 89
+[10-Jul-2011 02:20:21] PHP Fatal error:  Call to undefined function  redirect() in /home/actiontu/public_html/davidmregister.com/clock-in/clockin_ci/application/controllers/clocking.php on line 89
+[04-Aug-2011 14:24:53] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/actiontu/public_html/timeapp.davidmregister.com/application/controllers/clocking.php on line 71
+[04-Aug-2011 14:45:46] PHP Parse error:  syntax error, unexpected '}' in /home/actiontu/public_html/timeapp.davidmregister.com/application/controllers/clocking.php on line 72
+[04-Aug-2011 14:49:35] PHP Parse error:  syntax error, unexpected ';' in /home/actiontu/public_html/timeapp.davidmregister.com/application/controllers/clocking.php on line 68
